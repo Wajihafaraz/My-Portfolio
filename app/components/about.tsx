@@ -1,4 +1,4 @@
-import React from 'react'
+
 import about from"../../public/Assets/Aboutlogo.png"
 import Image from 'next/image'
 

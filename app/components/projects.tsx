@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Image from 'next/image'
 import  Static from "../../public/Assets/project 1.jpeg"
 import dynamic from"../../public/Assets/Project dynamic.jpeg"

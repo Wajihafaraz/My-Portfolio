@@ -1,8 +1,6 @@
 "use client"
 import Image from 'next/image';
 import Typewriter from 'typewriter-effect';
-
-
 import profilepic from "../../public/Assets/profile pic.jpg"
 const Hero = () => {
   return (
