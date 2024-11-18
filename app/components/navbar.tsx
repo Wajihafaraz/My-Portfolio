@@ -5,7 +5,7 @@ import { IoMdDownload } from "react-icons/io";
 
 const Navbar = () => {
   return (
-    <div className="bg-red-200 z-50 sticky top-0">
+    <div className='bg-red-200 z-50 sticky top-0'>
 
 
 <header className="text-red-600 body-font">
