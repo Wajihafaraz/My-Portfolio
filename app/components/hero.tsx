@@ -2,6 +2,7 @@
 import Image from 'next/image';
 import Typewriter from 'typewriter-effect';
 import profilepic from "../../public/Assets/profile pic.jpg"
+import logo from "../../public/Assets/logo.jpg"
 const Hero = () => {
   return (
     <div>
@@ -35,7 +36,8 @@ const Hero = () => {
        
                           <a href="https://github.com/" target='_blank'>
         <button className="ml-4 inline-flex text-white bg-red-500 border-0 py-2 px-4 gap-2 focus:outline-none hover:bg-red-700 rounded text-lg  mt-auto">
-          <img src="Assets/logo git.png" alt="logo" className='h-10 w-10' />
+         <Image  src={logo} alt="logo" className='h-10 w-10'/>
+         
           Visit Github account
         </button></a>
       </div>
