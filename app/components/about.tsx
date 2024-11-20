@@ -7,7 +7,7 @@ const About = () => {
     <div id='about'>
 
       <section className="text-gray-600 body-font">
-        <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+        <div className="container mx-auto flex px-2 py-24 md:flex-row flex-col items-center">
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 ml-10">
             <Image src={about} alt="logo" className="h-[300px] w-[300px] " />
           </div>
@@ -16,15 +16,15 @@ const About = () => {
               About Me
 
             </h1>
-            <h2 className='title-font sm:text-2xl text-lg mb-4 font-small text-gray-900"'>My Qualification</h2>
-            <p className="mb-8 leading-relaxed">
+            <h2 className='title-font text-3xl mb-4 font-small text-gray-900"'>My Qualification</h2>
+            <p className="mb-8 leading-relaxed text-xl">
               Matric in Computer Science from Monte Carlo Grammar School
               <br />
-              Intermediate in Computer Science from Govt.Girls College block 14 Gulistan e Jauhar
+              Intermediate in Computer Science from Govt.Girls College block-14 Gulistan-e-Jauhar.
               <br />
-              ADP in Education from Virtual University
+              ADP in Education from Virtual University.
               <br />
-              Now I am Learning Next.Js , Python , Web 3.0 and Artificial Intelligence at GOvernor House Initiative.
+              Now I am Learning Next.Js , Python , Web 3.0 and Artificial Intelligence at Governor House Initiative.
 
             </p>
             <div className="flex justify-center">

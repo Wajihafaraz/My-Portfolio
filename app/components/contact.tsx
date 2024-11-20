@@ -12,7 +12,7 @@ const Contact = () => {
        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7238.604171626679!2d67.18346768787504!3d24.88767544418285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb339e2bcc25efd%3A0x5554025670583e4c!2sShadman%20Town%20Kala%20Board%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh%2C%20Pakistan!5e0!3m2!1sen!2s!4v1731698352189!5m2!1sen!2s" 
     />
   </div>
-  <div className="container px-5 py-24 mx-auto flex">
+  <div className="container px-2 py-24 mx-auto flex">
     <div className="lg:w-1/3 md:w-1/2 bg-white rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md">
       <h2 className="text-gray-900 text-lg mb-1 font-medium title-font">
         Feedback
