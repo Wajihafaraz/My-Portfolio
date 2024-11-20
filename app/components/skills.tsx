@@ -25,7 +25,7 @@ const Skills = () => {
             <FaArrowRight />
 
             </div>
-            <h2 className="text-gray-900 text-lg title-font font-medium">
+            <h2 className="text-gray-900 text-lg  sm:text-sm title-font font-medium">
             HTML
             </h2>
           </div>
@@ -45,7 +45,7 @@ const Skills = () => {
             <FaArrowRight />
 
             </div>
-            <h2 className="text-gray-900 text-lg title-font font-medium">
+            <h2 className="text-gray-900 text-lg sm:text-sm title-font font-medium">
             CSS
             </h2>
           </div>
@@ -66,7 +66,7 @@ const Skills = () => {
             <FaArrowRight />
 
             </div>
-            <h2 className="text-gray-900 text-lg title-font font-medium">
+            <h2 className="text-gray-900 text-lg sm:text-sm title-font font-medium">
             JAVASCRIPT
             </h2>
           </div>
